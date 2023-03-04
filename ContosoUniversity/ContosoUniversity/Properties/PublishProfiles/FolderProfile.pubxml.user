@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Developer\Desktop\ContosoUniversity</_PublishTargetUrl>
-    <History>True|2023-02-28T01:46:26.1216844Z;True|2023-02-28T06:22:05.3664831+05:00;</History>
+    <History>False|2023-03-04T12:06:26.7578288Z;True|2023-02-28T06:46:26.1216844+05:00;True|2023-02-28T06:22:05.3664831+05:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

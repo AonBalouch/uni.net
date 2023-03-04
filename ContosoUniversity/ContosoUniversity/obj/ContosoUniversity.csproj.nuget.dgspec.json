@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ayaz Khan\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "D:\\Aon\\Study\\Advance OOP using c#\\ContosoUnivesity\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ayaz Khan\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "D:\\Aon\\Study\\Advance OOP using c#\\ContosoUnivesity\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayaz Khan\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "D:\\Aon\\Study\\Advance OOP using c#\\ContosoUnivesity\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\Ayaz Khan\\source\\repos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\Ayaz Khan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayaz Khan\\source\\repos\\ContosoUniversity\\ContosoUniversity\\obj\\",
+        "projectPath": "D:\\Aon\\Study\\Advance OOP using c#\\ContosoUnivesity\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\AonBa\\.nuget\\packages\\",
+        "outputPath": "D:\\Aon\\Study\\Advance OOP using c#\\ContosoUnivesity\\ContosoUniversity\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ayaz Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AonBa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
